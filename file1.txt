@@ -1,0 +1,3 @@
+Poszla Ola do przedszkola
+zapomniala parasola
+x = 10
